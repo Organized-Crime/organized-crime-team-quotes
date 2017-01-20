@@ -13,6 +13,11 @@ class names first letter capital
 
 Changelog (newest additions at the top)
 =========
+Change #04:
+1/20/2017 3:28 pm
+
+Added the random() function to Welcome.php allowing for random selection of a quote.
+=========
 Change #03:
 1/20/2017 2:56 pm
 
