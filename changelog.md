@@ -13,6 +13,11 @@ class names first letter capital
 
 Changelog (newest additions at the top)
 =========
+Change #03:
+1/20/2017 2:56 pm
+
+Tooltip enhanced for picture, now shows quote.
+===========
 Change #02:
 1/20/2017 2:22 pm
 
