@@ -36,7 +36,7 @@ class Welcome extends Application
 		// build the list of authors, to pass on to our view
 		$source = $this->quotes->all();
 		$authors = array ();
-		$record = $source[rand(0, count($source))];
+		$record = $source[rand(0, count($source) - 1)];
 		$authors[] = array ('who' => $record['who'], 'mug' => $record['mug'], 'href' => $record['where'], 'what' => $record['what']);
 		$this->data['authors'] = $authors;
 
