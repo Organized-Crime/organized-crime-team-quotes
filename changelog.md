@@ -13,6 +13,12 @@ class names first letter capital
 
 Changelog (newest additions at the top)
 =========
+Change #05:
+1/20/2017 3:58 pm
+
+Bugfix: the rand function would sometimes return 7 which is out of bounds as an
+index for $authors
+=========
 Change #04:
 1/20/2017 3:28 pm
 
